@@ -11,7 +11,3 @@
     - Редактирование элемента из списка "COMPLETED"
     - Установка элемента в статус незавершенного и перенос в список "TODO" через checkbox
     - Анимация на кнопке удаления
-
-# Get access on Github Pages:
-
-https://korvinatreides.github.io/clean-code/.
